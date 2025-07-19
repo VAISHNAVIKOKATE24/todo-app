@@ -32,7 +32,7 @@ cd todo-app
 cd server
 npm install
 touch .env
-# Add your MongoDB URI in .env file
+Add your MongoDB URI in .env file
 npm start
 
 3. Setup Frontend (client/)
