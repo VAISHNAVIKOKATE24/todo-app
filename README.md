@@ -24,7 +24,7 @@ todo-app/
 
 ## 🚀 Setup Instructions
 
-### 1. Clone Repo
+1. Clone Repo
 git clone https://github.com/YOUR_USERNAME/todo-app.git
 cd todo-app
 
